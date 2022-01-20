@@ -2,8 +2,14 @@
 
 I have a small space for experiments and up my skills in web programming. You can visit at [nopdon.com](https://nopdon.com)
 
+And my [resume](https://files.nopdon.com/resume.pdf) is here.
 
+I'm currently learning 
+ - Service oriented programming and docker with Spring java
+ - Swift programming
+ - Vue.js and tailwind
 
+Have any questions. You can contact me at dev@nopdon.com.
 <!--
 **SilverSky9/SilverSky9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
