@@ -2,7 +2,7 @@
 
 I have a small space for experiments and up my skills in web programming. You can visit at [nopdon.com](https://nopdon.com)
 
-And my [resume](https://files.nopdon.com/resume.pdf) is here.
+And my [resume](https://files.nopdon.com/resume.pdf) and [portfolio](https://github.com/SilverSky9/portfolio/blob/main/README.md) is here.
 
 I'm currently learning 
  - Service oriented programming and docker with Spring java
