@@ -7,7 +7,7 @@ And my [resume](https://files.nopdon.com/resume.pdf) and [portfolio](https://git
 I'm currently learning 
  - Service oriented programming and docker with Spring java
  - Swift programming
- - Vue.js and tailwind
+ - Ruby on rails and tailwind
 
 Have any questions. You can contact me at dev@nopdon.com.
 <!--
